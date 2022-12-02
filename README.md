@@ -1,5 +1,7 @@
-# js_exam
+# solar system
 
-solar system
+Javascript Utvecklare
 
-Examination: Individuell inlämningsuppgift, Javascript, Nov/Dec 2022, JavascriptUtvecklare
+Examination: Individuell inlämningsuppgift: Javascript
+
+2022-12-02
