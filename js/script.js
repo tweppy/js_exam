@@ -27,4 +27,3 @@ function showOrHide () {
 }
 
 closeBtn.addEventListener('click', showOrHide);
-

@@ -22,7 +22,3 @@ async function getPlanets() {
 }
 
 export { planetsData }
-
-
-
-
